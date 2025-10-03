@@ -1,0 +1,5 @@
+{
+  "name": "Copy of YouTube Video Analysis Agent",
+  "description": "An AI-powered agent that accepts a YouTube video URL, simulates processing its transcript, and generates a structured analysis covering summary, key insights, tone, and practical applications.",
+  "requestFramePermissions": []
+}
